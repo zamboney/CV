@@ -9,7 +9,7 @@
 
 ## SUMMARY
 
-Creative Lead Front-end Developer with 6+ years of experience musty in JavaScript to build top of the edge front-end application with an emphasis on testing and memory use. Looking for Full stack or Front-End Developer in a company that has many challenges and growth opportunities.
+Creative Lead Front-end Developer with 6+ years of experience mostly in JavaScript to build top of the edge front-end application with an emphasis on testing and memory use. Looking for Full stack or Front-End Developer in a company that has many challenges and growth opportunities.
 
 ## EDUCATION
 
@@ -17,11 +17,19 @@ Netanya collage Aug '14 – Sep '17
 Bachelor of Science in Computer Science
 
 SELA collage Sep '11 - Sep '13
-General Programming 
+General Programming
 
 ## EXPERIENCE
 
-### **AT&T**, *Lead Front-end Developer*: Aug '16 - Current
+### **Wochit**, *Lead Front-end Developer*: Jan '19 - Current
+
+* Architected, designed, and develop a video creator website for Chrome browser using Vuejs (live demo).
+* Reduce server-side graphics engine by transpile server graphics engine to javascript and HTML canvas and running it on the client-side.
+* Upgrade the site from RequireJS to Webpack. This upgrade, Speed up the first frame, improve development experience, and managed a clean code.
+* Adding unit testing and apply them as part of the CICD.
+* Creating a mono repo (using Lerna) and NPM registry to distributed common packages to multi Wochit applications.
+
+### **AT&T**, *Lead Front-end Developer*: Aug '16 - Jan '19
 
 * Architected, designed, and developed a live and VOD streaming application for Chrome and Safari browser using Angular 2+ (live site).
 * Leading and managing the Chrome-Cast AT&T app using ES6, Webpack and NodeJS.
