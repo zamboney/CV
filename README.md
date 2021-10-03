@@ -21,36 +21,35 @@ General Programming
 
 ### **Natural Intelligence**, *Senior Back-end Developer* Jan '20 - Today
 
-* Moving rest API to Apollo GraphQL.
-* Separated core rendering services to a new service and profiling it's performance.
+* Leading and managing a rest API to Apollo GraphQL migration.
+* Separated core rendering to a new service and profiling it's performance.
 * Upgrading mongoose from 3.6 to 4.2 across the system.
 * Debugging and finding memory leaks in production using nodejs common tooling.
 
-### **Wochit**, *Lead Front-end Developer*: Jan '19 - Jan '20
+### **Wochit**, *Senior Front-end Developer*: Jan '19 - Jan '20
 
-* Architected, designed, and develop a video creator website for Chrome browser using Vuejs.
+* Develop a video creator website for Chrome browser using Vuejs.
 * Reduce server-side graphics engine by transpile server graphics engine to javascript and HTML canvas and running it on the client-side.
-* Upgrade the site from RequireJS to Webpack. This upgrade, Speed up the first frame, improve development experience, and managed a clean code.
+* Upgrade the site from RequireJS to Webpack.
 * Adding unit testing and apply them as part of the CICD.
 * Creating a mono repo (using Lerna) and NPM registry to distributed common packages to multi Wochit applications.
 
-### **AT&T**, *Lead Front-end Developer*: Aug '16 - Jan '19
+### **AT&T**, *Senior Front-end Developer*: Aug '16 - Jan '19
 
-* Architected, designed, and developed a live and VOD streaming application for Chrome and Safari browser using Angular 2+.
+* Developed a live and VOD streaming application for Chrome and Safari browser using Angular 2+.
 * Leading and managing the Chrome-Cast AT&T app using ES6, Webpack and NodeJS.
 * Finding and fixing memory leaks using Chrome Developer tools.
 * During my time in AT&T I promoted to Senior Developer.
 
 ## **MTS**, *Front-end Developer*: May '15 - Aug '16
 
-* Architected, designed, and developed a portal for displaying reports as a graph using Highlight.js and AngularJS (video demo)
+* Developed a portal for displaying reports as a graph using Highlight.js and AngularJS (video demo)
 * Converting a ASP.NET application to AngularJS application.
-* During my time in MTS I promoted to Lead Developer
 
 ## **Sarine Technologies Ltd.**, *Front-end Developer*: May' 13 - May '15
 
-* Develop a back office application for register token for a remote machine.
-* Architected, designed, and developed a “Diamond Profile”  web application using Three.js, webpack, ES6 (demo)
+* Developed a back office application for register token for a remote machine.
+* Developed a “Diamond Profile”  web application using Three.js, webpack, ES6 (demo)
 
 ## **Spot Options**, *Web Developer*: Apr '12 - May '13
 
