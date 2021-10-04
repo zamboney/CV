@@ -7,7 +7,7 @@
 
 ## SUMMARY
 
-Creative Lead Front-end Developer with 6+ years of experience mostly in JavaScript, to build top of the edge front-end application with an emphasis on testing and memory use. Looking for Full stack or Front-End Developer in a company that has many challenges and growth opportunities.
+Creative Lead Front-End and Back-End Developer with 7+ years of experience in JavaScript, to build top of the edge application with an emphasis on testing and memory use. Looking for Full stack, Back-End or Front-End Developer in a company that has many challenges and growth opportunities.
 
 ## EDUCATION
 
