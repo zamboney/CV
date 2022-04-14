@@ -2,7 +2,7 @@
 
 # Ran Moshe Itzhaki
 
-> (052) 6391996 / zamboney@gmail.com
+> 052-6391996 / zamboney@gmail.com
 
 ## SUMMARY
 
