@@ -1,4 +1,4 @@
-[pdf](https://zamboney.github.io/CV/Ran%20Itzhaki%20CV.pdf)
+[pdf](https://zamboney.github.io/CV/Ran_Itzhaki_CV.pdf)
 
 # Ran Moshe Itzhaki
 
