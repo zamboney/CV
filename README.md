@@ -1,6 +1,5 @@
 [pdf](https://zamboney.github.io/CV/Ran%20Itzhaki%20CV.pdf)
 
-
 # Ran Moshe Itzhaki
 
 > (052) 6391996 / zamboney@gmail.com
@@ -9,21 +8,12 @@
 
 Creative Lead Front-End and Back-End Developer with 7+ years of experience in JavaScript, to build top of the edge application with an emphasis on testing and memory use. Looking for Full stack, Back-End or Front-End Developer in a company that has many challenges and growth opportunities.
 
-## EDUCATION
-
-Netanya collage Aug '14 – Sep '17
-Bachelor of Science in Computer Science and Math
-
-SELA collage Sep '11 - Sep '13
-General Programming
-
 ## EXPERIENCE
 
 ### **Natural Intelligence**, *Senior Back-end Developer* Jan '20 - Today
 
 * Leading and managing a rest API to Apollo GraphQL migration.
 * Separated core rendering to a new service and profiling it's performance.
-* Upgrading mongoose from 3.6 to 4.2 across the system.
 * Debugging and finding memory leaks in production using nodejs common tooling.
 
 ### **Wochit**, *Senior Front-end Developer*: Jan '19 - Jan '20
@@ -41,19 +31,27 @@ General Programming
 * Finding and fixing memory leaks using Chrome Developer tools.
 * During my time in AT&T I promoted to Senior Developer.
 
-## **MTS**, *Front-end Developer*: May '15 - Aug '16
+### **MTS**, *Front-end Developer*: May '15 - Aug '16
 
 * Developed a portal for displaying reports as a graph using Highlight.js and AngularJS (video demo)
 * Converting a ASP.NET application to AngularJS application.
 
-## **Sarine Technologies Ltd.**, *Front-end Developer*: May' 13 - May '15
+### **Sarine Technologies Ltd.**, *Front-end Developer*: May' 13 - May '15
 
 * Developed a back office application for register token for a remote machine.
 * Developed a “Diamond Profile”  web application using Three.js, webpack, ES6 (demo)
 
-## **Spot Options**, *Web Developer*: Apr '12 - May '13
+### **Spot Options**, *Web Developer*: Apr '12 - May '13
 
 * Developing binary options side using HTML5, CSS3 and JavaScript.
+
+## EDUCATION
+
+Netanya collage Aug '14 – Sep '17
+Bachelor of Science in Computer Science and Math
+
+SELA collage Sep '11 - Sep '13
+General Programming
 
 ## SKILLS
 
