@@ -55,10 +55,7 @@ General Programming
 
 ## SKILLS
 
-* Expert: HTML5, CSS3, JavaScript, TypeScript, Apollo GraphQL, Vuejs, React, AngularJS, Angular 2+, Karma, Jasmine, Protractor, NPM, Chrome Developer Tool.
-* Extensive Knowledge: Git, Webpack.
-* Knowledge: C#, AWS, Azure.
-* Work a lot with Three.js, highchart.js.
+HTML5, CSS3, JavaScript, TypeScript, Apollo GraphQL, NodeJs, Vuejs, React, Mocha, Jest, NPM, Chrome Developer Tool, Git.
 
 ## MISC
 
