@@ -6,11 +6,17 @@
 
 ## SUMMARY
 
-Creative Lead Front-End and Back-End Developer with 7+ years of experience in JavaScript, to build top of the edge application with an emphasis on testing and memory use. Looking for Full stack, Back-End or Front-End Developer in a company that has many challenges and growth opportunities.
+Creative Lead Front-End and Back-End Developer with 12+ years of experience in JavaScript, to build top of the edge application with an emphasis on testing and memory use. Looking for Full stack, Back-End or Front-End Developer in a company that has many challenges and growth opportunities.
 
 ## EXPERIENCE
 
-### **Natural Intelligence**, *Senior Back-end Developer* Jan '20 - Today
+### **Applitools**, *Senior Front-End/NodeJs Developer* Aug '22 - Present
+
+* Developing an SDK for visual testing for all of the testing frameworks (Cypress, Playwright, Selenium, etc.) using Node.js and TypeScript.
+* Focus on adding unit, integration, and end-to-end tests for all of the frameworks.
+* Been part of the Front-End team for an out-of-the-box visual testing application using Applitools tools (written in React).
+
+### **Natural Intelligence**, *Senior Back-end Developer* Jan '20 - Aug '22
 
 * Leading and managing a rest API to Apollo GraphQL migration.
 * Separated core rendering to a new service and profiling it's performance.
