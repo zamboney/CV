@@ -1,74 +1,73 @@
 [pdf](https://zamboney.github.io/CV/Ran_Itzhaki_CV.pdf)
 
-# Ran Moshe Itzhaki
+# Ran Itzhaki
 
-> 052-6391996 / zamboney@gmail.com
+Tel: 052-6391996 · Email: zamboney@gmail.com · [GitHub](https://github.com/zamboney) · [LinkedIn](https://www.linkedin.com/in/ran-itzhaki-b1847a110/) · Tel Aviv, IL
 
-## SUMMARY
+---
 
-Creative Lead Front-End and Back-End Developer with 12+ years of experience in JavaScript, to build top of the edge application with an emphasis on testing and memory use. Looking for Full stack, Back-End or Front-End Developer in a company that has many challenges and growth opportunities.
+## Summary
+Full-stack JavaScript/TypeScript developer (14+ years) specializing in **front-end architecture, Node.js back-ends, automated testing (unit/integration/E2E), and performance/memory optimization**. Built SDKs and production apps across React/Angular/Vue, led migrations to GraphQL, and improved reliability through CI/CD and deep profiling. Seeking **Senior/Staff Front-end, Back-end (Node), or Full-stack** roles in a product-driven team.
 
-## EXPERIENCE
+---
 
-### **Applitools**, *Senior Front-End/NodeJs Developer* Aug '22 - Present
+## Skills
+- **Languages:** JavaScript/TypeScript, HTML5, CSS3, SQL  
+- **Front-end:** React, Angular (2+), Vue.js, Webpack, Canvas, Three.js
+- **Back-end:** Node.js, REST, Apollo GraphQL  
+- **Testing:** Jest, Mocha, Cypress, Playwright, Selenium, Testing Library, E2E, CI/CD  
+- **Performance & Quality:** Chrome DevTools, memory profiling/leak hunting, bundle optimization  
+- **Tooling:** Git, NPM/Yarn, Docker *(if used)*, CI/CD (e.g., GitHub Actions/Jenkins).
 
-* Developing an SDK for visual testing for all of the testing frameworks (Cypress, Playwright, Selenium, etc.) using Node.js and TypeScript.
-* Focus on adding unit, integration, and end-to-end tests for all of the frameworks.
-* Been part of the Front-End team for an out-of-the-box visual testing application using Applitools tools (written in React).
+---
 
-### **Natural Intelligence**, *Senior Back-end Developer* Jan '20 - Aug '22
+## Experience
 
-* Leading and managing a rest API to Apollo GraphQL migration.
-* Separated core rendering to a new service and profiling it's performance.
-* Debugging and finding memory leaks in production using nodejs common tooling.
+### Applitools — *Senior Front-End / Node.js Developer*  
+**Aug 2022 – Present**
+- Developed a **Node.js/TypeScript SDK** for visual testing across **Cypress, Playwright, Selenium**, and more.  
+- Drove **unit, integration, and E2E** coverage across frameworks; integrated tests into **CI/CD**.  
+- Contributed to a **React**-based visual testing app; aligned SDK APIs and UX across teams.
 
-### **Wochit**, *Senior Front-end Developer*: Jan '19 - Jan '20
+### Natural Intelligence — *Senior Back-end Developer*  
+**Jan 2020 – Aug 2022**
+- **Led migration** from **REST** to **Apollo GraphQL**, improving query efficiency and client simplicity.  
+- **Separated core rendering** into a dedicated service and **profiled/optimized** latency and throughput.  
+- **Identified and fixed production memory leaks** using Node.js profiling and heap analysis.
 
-* Develop a video creator website for Chrome browser using Vuejs.
-* Reduce server-side graphics engine by transpile server graphics engine to javascript and HTML canvas and running it on the client-side.
-* Upgrade the site from RequireJS to Webpack.
-* Adding unit testing and apply them as part of the CICD.
-* Creating a mono repo (using Lerna) and NPM registry to distributed common packages to multi Wochit applications.
+### Wochit — *Senior Front-end Developer*  
+**Jan 2019 – Jan 2020**
+- Built a **browser-based video creator** (Chrome) with **Vue.js**.  
+- **Offloaded server-side graphics** to the client by transpiling the engine to **JavaScript + HTML Canvas**, reducing server load and cost.  
+- Migrated **RequireJS → Webpack**; added **unit tests** and wired them into **CI/CD**.  
+- Introduced a **monorepo** with **Lerna** and a private **NPM registry** for shared packages.
 
-### **AT&T**, *Senior Front-end Developer*: Aug '16 - Jan '19
+### AT&T — *Senior Front-end Developer*  
+**Aug 2016 – Jan 2019**
+- Built **live & VOD streaming** apps for Chrome/Safari using **Angular 2+**.  
+- Led the **Chromecast** app (ES6, Webpack, Node.js) through development and release.  
+- **Found and fixed memory leaks** with Chrome DevTools to improve playback stability.  
+- **Promoted to Senior** based on delivery and mentoring.
 
-* Developed a live and VOD streaming application for Chrome and Safari browser using Angular 2+.
-* Leading and managing the Chrome-Cast AT&T app using ES6, Webpack and NodeJS.
-* Finding and fixing memory leaks using Chrome Developer tools.
-* During my time in AT&T I promoted to Senior Developer.
+### MTS — *Front-end Developer*  
+**May 2015 – Aug 2016**
+- Built a **reporting portal** with **AngularJS** and **Highlight.js** *(video demo)*.  
+- Migrated an **ASP.NET** application to **AngularJS**, modernizing the front-end.
 
-### **MTS**, *Front-end Developer*: May '15 - Aug '16
+### Sarine Technologies — *Front-end Developer*  
+**May 2013 – May 2015**
+- Developed back-office tools for **registration tokens** of remote machines.  
+- Built a **“Diamond Profile”** web app with **Three.js**, **Webpack**, and **ES6** *(demo)*.
 
-* Developed a portal for displaying reports as a graph using Highlight.js and AngularJS (video demo)
-* Converting a ASP.NET application to AngularJS application.
+### Spot Option(s) — *Web Developer*  
+**Apr 2012 – May 2013**
+- Built high-traffic trading UIs using **HTML5, CSS3, JavaScript**.
 
-### **Sarine Technologies Ltd.**, *Front-end Developer*: May' 13 - May '15
+---
 
-* Developed a back office application for register token for a remote machine.
-* Developed a “Diamond Profile”  web application using Three.js, webpack, ES6 (demo)
+## Education
+**Netanya College** — B.Sc., Computer Science & Mathematics  
+**Aug 2014 – Sep 2017**
 
-### **Spot Options**, *Web Developer*: Apr '12 - May '13
-
-* Developing binary options side using HTML5, CSS3 and JavaScript.
-
-## EDUCATION
-
-Netanya collage Aug '14 – Sep '17
-Bachelor of Science in Computer Science and Math
-
-SELA collage Sep '11 - Sep '13
-General Programming
-
-## SKILLS
-
-HTML5, CSS3, JavaScript, TypeScript, Apollo GraphQL, NodeJs, Vuejs, React, Mocha, Jest, NPM, Chrome Developer Tool, Git.
-
-## MISC
-
-> Done several lectures about JavaScript technologies:
-
-* NPM @ Fed.il Meetup.
-* Yarn @ BoostJS.
-* NativeScript @ Sela Developer Practice.
-* Browser Rendering @ Fed.il Meetup.
-* Chrome Developer tools @ Fed.il Meetup.
+**SELA College** — General Programming  
+**Sep 2011 – Sep 2013**
