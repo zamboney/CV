@@ -12,7 +12,7 @@ Full-stack JavaScript/TypeScript developer (14+ years) specializing in **front-e
 ---
 
 ## Skills
-- **Languages:** JavaScript/TypeScript, HTML5, CSS3, SQL
+- **Languages:** JavaScript/TypeScript, HTML5, CSS3
 - **Front-end:** React, Angular (2+), Vue.js, Webpack, Canvas, Three.js
 - **Back-end:** Node.js, REST, Apollo GraphQL
 - **Testing:** Jest, Mocha, Cypress, Playwright, Selenium, Testing Library, E2E, CI/CD
