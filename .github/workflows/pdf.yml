@@ -11,6 +11,7 @@ jobs:
           args: >-
             --standalone
             --output=Ran_Itzhaki_CV.pdf
+            -V geometry:margin=3cm
             README.md
       - uses: EndBug/add-and-commit@v9
         with:
